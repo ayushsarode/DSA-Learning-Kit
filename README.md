@@ -35,10 +35,10 @@
 
 
 <div align="center">
-## Contributers
+<h2> Contributers </h2>
 <a href="https://github.com/AyushSarode/DSA-Practice/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=AyushSarode/"DSA-Practice/>
 </a>
-
-#### Happy coding!
 </div>
+#### Happy coding!
+
