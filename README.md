@@ -32,3 +32,13 @@
   <p>This repository was created with the aim of helping fellow programmers strengthen their DSA skills. Special thanks to the open-source community, online coding platforms, and countless tutorials that have inspired and educated us.</p>
   <p>Happy coding and may your journey through DSA be both enlightening and enjoyable! :rocket:</p>
 </div>
+
+
+<div align="center">
+## Contributers
+<a href="https://github.com/AyushSarode/DSA-Practice/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=AyushSarode/"DSA-Practice />
+</a>
+
+#### Happy coding!
+</div>
