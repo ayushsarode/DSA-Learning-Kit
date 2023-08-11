@@ -3,6 +3,15 @@
   <p>Welcome to the <strong>DSA Practice Repository</strong>! This repository is a collection of resources and code challenges focused on Data Structures and Algorithms (DSA). Whether you're a beginner looking to learn DSA concepts or a seasoned coder preparing for technical interviews, this repository is designed to help you enhance your coding skills and problem-solving abilities.</p>
 </div>
 
+***
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AyushSarode.DSA-Practice)
+![GitHub Repo stars](https://img.shields.io/github/stars/AyushSarode/DSA-Practice)
+![GitHub issues](https://img.shields.io/github/issues-raw/AyushSarode/DSA-Practice)
+[![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](http://ansicolortags.readthedocs.io/?badge=latest)
+[![Twitter Follow](https://img.shields.io/twitter/follow/AyushSarode07)](https://twitter.com/AyushSarode07)
+
+
 <div align="center">
   <h2>Contents</h2>
     <li>Various data structure implementations</li>
