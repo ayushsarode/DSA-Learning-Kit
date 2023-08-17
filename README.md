@@ -13,7 +13,7 @@
 
 
 <div align="center">
-  <h2>Contents</h2>
+  <h2>🗒️Content</h2>
     <li>Various data structure implementations</li>
     <li>Algorithmic problem-solving exercises</li>
     <li>Code snippets for common DSA operations</li>
