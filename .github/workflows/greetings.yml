@@ -1,6 +1,7 @@
 name: Greetings
 
-on: issues:
+on: 
+issues:
     types:
       - opened
   pull_request:
