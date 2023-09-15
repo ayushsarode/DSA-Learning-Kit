@@ -1,9 +1,12 @@
 package com.Ayush;
 
+import java.util.Scanner;
+
 public class ReverseNum {
     public static void main(String[] args) {
+        Scanner in = new Scanner(System.in);
         // Initialize the original integer
-        int num = 123456;
+        int num = in.nextInt();
 
         // Initialize a variable to store the reversed integer
         int ans = 0;
