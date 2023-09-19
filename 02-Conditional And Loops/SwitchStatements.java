@@ -77,11 +77,6 @@ public class SwitchStatements {
 
 
 
-// Nested switch Condition
-
-
-
-
 
 
 //SYNTAX -
