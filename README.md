@@ -18,8 +18,6 @@
     <li>Algorithmic problem-solving exercises</li>
     <li>Code snippets for common DSA operations</li>
     <li>Solutions to classic coding challenges</li>
-    <li>Tips and explanations to understand key concepts</li>
-
 </div>
 
 <div align="center">
