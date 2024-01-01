@@ -1,6 +1,6 @@
 <div align="center">
   <h1>DSA Learning Kit</h1>
-  <p>Welcome to the <strong>DSA Learning Kit</strong>! This repository is a collection of resources and code challenges focused on Data Structures and Algorithms (DSA). Whether you're a beginner looking to learn DSA concepts or a seasoned coder preparing for technical interviews, this repository is designed to help you enhance your coding skills and problem-solving abilities.</p>
+  <p>Welcome to the <strong>DSA Learning Kit</strong>! This repository is a collection of resources and code challenges focused on Data Structures and Algorithms (DSA).This repository is designed to help you enhance your coding skills and problem-solving abilities.</p>
 </div>
 
 ***
