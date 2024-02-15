@@ -7,7 +7,6 @@
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AyushSarode.DSA-Learning-Kit)
 ![GitHub Repo stars](https://img.shields.io/github/stars/AyushSarode/DSA-Learning-Kit)
-![GitHub issues](https://img.shields.io/github/issues-raw/AyushSarode/DSA-Learning-Kit)
 [![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](http://ansicolortags.readthedocs.io/?badge=latest)
 [![Twitter Follow](https://img.shields.io/twitter/follow/AyushSarode07)](https://twitter.com/AyushSarode07)
 
