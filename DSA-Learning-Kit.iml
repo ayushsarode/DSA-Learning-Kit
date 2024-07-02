@@ -7,7 +7,7 @@
       <sourceFolder url="file://$MODULE_DIR$/02-Conditional And Loops" isTestSource="false" packagePrefix="com.Ayush" />
       <sourceFolder url="file://$MODULE_DIR$/03-Function Method" isTestSource="false" packagePrefix="com.ayush" />
       <sourceFolder url="file://$MODULE_DIR$/04-Array" isTestSource="false" packagePrefix="com.ayush" />
-      <sourceFolder url="file://$MODULE_DIR$/05-Linear Search Algorithm" isTestSource="false" packagePrefix="com.ayush" />
+      <excludeFolder url="file://$MODULE_DIR$/05-Linear Search Algorithm" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
