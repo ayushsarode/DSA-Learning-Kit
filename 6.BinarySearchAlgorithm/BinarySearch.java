@@ -1,15 +1,31 @@
-package com.ayush;
-
 public class BinarySearch {
     public static void main(String[] args) {
-        int[] arr = {-12,-1,4,6,9,25,83,101,150,200};
-        int target = 150;
-        int ans = BinarySearch(arr, target);
-        System.out.println(ans);
+        // start with the box of size 2
+        int[] arr = {3,5,7,9,10,90,100,130,140,160,170};
+        int target = 10;
+        System.out.println(ans(arr, target));
     }
-    static int BinarySearch(int[] arr, int target){
-        int start = 0;
-        int end = arr.length -1;
+
+     fstatic int ans(int[] arr, int target) {
+
+    int start = 0;
+    int end = 1;
+
+    while (target > arr[end]) {
+
+        int newStart = end + 1;
+
+        //double the box value
+        // end = previor end + sizeofbox*2
+        end = end + (end - start + 1) * 2; 
+        start = newStart;
+    }
+    //condition for target lie in the range 
+    return  BinarySearch(arr, target, start, end);
+}
+
+    static int BinarySearch(int[] arr, int target, int start, int end){
+
 
         while(start<=end){
 
