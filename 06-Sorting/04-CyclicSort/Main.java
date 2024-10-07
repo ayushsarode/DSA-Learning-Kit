@@ -16,7 +16,7 @@ public class Main {
             if (arr[i] != arr[correct]) {
                 swap(arr, i, correct);
             } else {
-                i++;
+                i++; 
             }
         }
     }
